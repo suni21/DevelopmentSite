@@ -141,17 +141,7 @@ body {
     width: 100%;
     z-index: 5;
   }
-  
-  /* Footer Styles */
-  .page__footer {
-    background: #000;
-    padding: 3em;
-    color: #fff;
-  }
-  
-  .page__footer p {
-    color: #fff;
-  }
+
   
   /* ---- Theme Rules ---- */
   /* Landing Container Styles */
