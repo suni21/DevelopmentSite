@@ -79,14 +79,8 @@ createNavBar();
 // Set active sections
 document.addEventListener('scroll', activeClass);
 
-//When link click Scrolling to Section
 smoothScroll();
 
-/**
- * End Main Functions
- * Begin Events
- *
-*/
 
 // Build menu
 myButton.addEventListener("click", () => myNav.classList.toggle("toggle-show"));
